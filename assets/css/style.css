@@ -1,0 +1,74 @@
+
+/* * {
+    box-sizing: border-box; */
+  /* } */
+body{
+    background-color: #636363;
+
+}
+footer{
+    padding:20px;
+    background-color: 	#636363;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border-top: 5px solid #ffa500;;
+    left:0;
+    bottom:0;
+    width:100%;
+    position:fixed;
+    color: white;
+    font-size: 12px;
+
+}
+
+.new-font{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 37px;
+    color: white;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: #ffa500;    
+}
+
+.panel-font{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #003333;
+    font-size: 16px;
+}
+p{
+    text-align: justify;
+}
+.line-color{
+    margin-top: 13px;
+    color: #ffa500;
+}
+.pan-color{
+    background-color: #636363;
+    padding-bottom: 222px;
+}
+.port-img{
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+   
+.port-img-size{
+    width: 252px;
+    height: 193px;
+}
+.btn{
+    background-color: #ffa500;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/* .content-box{
+    background-color: white;
+} */
+.page-header{
+    border-bottom: 1px solid #ffa500;
+}
+h1{
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
